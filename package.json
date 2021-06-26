@@ -1,0 +1,39 @@
+{
+  "name": "react-dapp-erc20-token",
+  "version": "0.0.0",
+  "description": "React Daap for an Initial Coin Offering (ICO)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.1.0",
+    "@truffle/hdwallet-provider": "1.4.1",
+    "dotenv": "10.0.0",
+    "object-keys": "0.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doncesarts/react-dapp-erc20-token.git"
+  },
+  "keywords": [
+    "solidity",
+    "react",
+    "truffle",
+    "openzeppelin"
+  ],
+  "author": "doncesarts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doncesarts/react-dapp-erc20-token/issues"
+  },
+  "homepage": "https://github.com/doncesarts/react-dapp-erc20-token#readme"
+}
